@@ -27,10 +27,10 @@
 
 运行前请先安装`nodejs`
 
-`clone`项目到本地
+`克隆`项目到本地
 
 ```shell
-git clone https://github.com/dcbestwords/Local-cloudPan.git
+git clone https://github.com/JSCSZZSS/Local-cloudPan.git
 ```
 
 前端运行
